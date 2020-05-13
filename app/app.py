@@ -13,7 +13,7 @@ def cities_import() -> List[Dict]:
         'password': 'root',
         'host': 'db',
         'port': '3306',
-        'database': 'citiesData2'
+        'database': 'citiesData'
     }
     connection = mysql.connector.connect(**config)
     cursor = connection.cursor(dictionary=True)
@@ -29,7 +29,7 @@ def cities_import() -> List[Dict]:
 
 @app.route('/')
 def index():
-    user = {'username': 'Miguel'}
+    user = {'username': 'Wismy'}
     cities_data = cities_import()
 
     return render_template('index.html', title='Home', user=user, cities=cities_data)

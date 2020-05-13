@@ -1,14 +1,14 @@
-# PythonDockerFlaskPycharm
+# PythonDockerFlaskPycharm Assignment 2
 ###### By Wismy Seide
 
 # Project Description
-This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman
+This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman and now adding Bootstrap
 
-# Postman Screenshot
-![screenshot](screenshots/postman.png)
+# Database Screenshot
+![screenshot](screenshots/database2.png)
 
-# MySQL Database screenshot
-![screenshot](screenshots/mysqldatabase.png)
+# Bootstrap Screenshot
+![screenshot](screenshots/bootstrap.png)
 
-# Raw Data
-![screenshot](screenshots/rawdata.png)
+# Postman Bootstrap Screenshot
+![screenshot](screenshots/postmanbootstrap.png)

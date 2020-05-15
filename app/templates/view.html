@@ -11,11 +11,11 @@
         <li class="list-group-item">Country: {{ city.fldCountry }}</li>
         <li class="list-group-item">Population: {{ city.fldPopulation }}</li>
     </ul>
-    <div class="card-body">
-        <a href="/edit/{{city.id}}" class="card-link btn btn-primary">edit</a>
+     <div class="card-body">
+        <a href="/edit/{{city.fldName}}" class="card-link btn btn-primary">edit</a>
     </div>
 </div>
-<form action="/delete/{{city.id}}" method="post"><button type="submit" class="btn btn-danger">Delete</button></form>
+<form action="/delete/{{city.fldName}}" method="post"><button type="submit" class="btn btn-danger">Delete</button></form>
 
 
 {% endblock %}

@@ -4,11 +4,11 @@
 # Project Description
 Database using APIs to browse, edit, add, delete
 
-# Postman Screenshot
-![screenshot](screenshots/postman.png)
+# Data
+![screenshot](screenshots/data.png)
 
-# MySQL Database screenshot
-![screenshot](screenshots/mysqldatabase.png)
+# Homepage
+![screenshot](screenshots/homepage.png)
 
-# Raw Data
-![screenshot](screenshots/rawdata.png)
+# Add
+![screenshot](screenshots/add.png)

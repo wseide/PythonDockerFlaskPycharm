@@ -1,8 +1,8 @@
-# PythonDockerFlaskPycharm
+# Final Project Part 1
 ###### By Wismy Seide
 
 # Project Description
-This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman
+Database using APIs to browse, edit, add, delete
 
 # Postman Screenshot
 ![screenshot](screenshots/postman.png)
